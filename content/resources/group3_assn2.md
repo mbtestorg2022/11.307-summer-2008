@@ -5,6 +5,7 @@ description: Example of a completed group project to explore different approache
   Ye Ming, and Ninad Pandit.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/453178a87463adfdbe9801205d6cc742_group3_assn2.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 3 Assignment 2
 uid: 453178a8-7463-adfd-be98-01205d6cc742

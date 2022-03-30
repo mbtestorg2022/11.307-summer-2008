@@ -4,6 +4,7 @@ description: Assignment on observing and understanding the Shougang (Capital Ste
   Factory) site.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/13ff6469e765a1b338aeb82777b2a6bf_assn1.pdf
 file_type: application/pdf
+parent_uid: 01b4d9a0-b3e8-e0f0-e459-1d4356f5f329
 resourcetype: Document
 title: 'Assignment #1'
 uid: 13ff6469-e765-a1b3-38ae-b82777b2a6bf

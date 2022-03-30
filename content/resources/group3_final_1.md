@@ -5,6 +5,7 @@ description: Example of a completed final project on an urban design and develop
   Ye Ming, and Ninad Pandit.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/6ae5fff7173abb56a4faaa5c2ac7021d_group3_final_1.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 3 Final Part 1
 uid: 6ae5fff7-173a-bb56-a4fa-aa5c2ac7021d

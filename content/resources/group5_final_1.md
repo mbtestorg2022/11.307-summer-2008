@@ -5,6 +5,7 @@ description: Example of a completed final project on an urban design and develop
   Pamela Ritchot, Sara Zeng, and Colin Zhao.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/eeaebd381eb514871c82f4404b356658_group5_final_1.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 5 Final Part 1
 uid: eeaebd38-1eb5-1487-1c82-f4404b356658

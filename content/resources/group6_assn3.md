@@ -7,6 +7,7 @@ description: Example of a completed group project to develop the plan of the upp
   Tran, and Xu Xu.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/39e74ac110495ea23f4c80c8a28a0558_group6_assn3.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 6 Assignment 3
 uid: 39e74ac1-1049-5ea2-3f4c-80c8a28a0558

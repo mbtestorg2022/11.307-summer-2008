@@ -5,6 +5,7 @@ description: Assignment to develop the plan of the upper area of the Shougang (C
   how the design will connect to the different uses and conditions across the site.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/7b3a043d270ec523a496387b91468935_assn3.pdf
 file_type: application/pdf
+parent_uid: 01b4d9a0-b3e8-e0f0-e459-1d4356f5f329
 resourcetype: Document
 title: 'Exercise #3: Form of Selected Areas, Form of Detailed Plan and Overall Master
   Plan'

@@ -7,6 +7,7 @@ description: Example of a completed group project to develop the plan of the upp
   Zhai Wensi, and Li Ye.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/83237f27f5400af88cc44802b97a3fec_group1_assn3.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 1 Assignment 3
 uid: 83237f27-f540-0af8-8cc4-4802b97a3fec

@@ -7,6 +7,7 @@ description: Example of a completed group project to develop the plan of the upp
   Sara Zeng, and Colin Zhao.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/cad2650c07fab59a75b017db7c00a641_group5_assn3_1.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 5 Assignment 3 Part 1
 uid: cad2650c-07fa-b59a-75b0-17db7c00a641

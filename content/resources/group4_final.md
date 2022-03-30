@@ -5,6 +5,7 @@ description: Example of a completed final project on an urban design and develop
   Desmond, Kristina Katich, Zhang Rouxi, and Ma Xiaoying.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/1b0f3553ed70ca14f281740675d02544_group4_final.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 4 Final
 uid: 1b0f3553-ed70-ca14-f281-740675d02544

@@ -5,6 +5,7 @@ description: Example of a completed group project on observing and understanding
   Outram, Zhai Wensi, and Li Ye.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/f0ff346b7a102e52de633a0bbde0b99c_group1_assn1.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 1 Assignment 1
 uid: f0ff346b-7a10-2e52-de63-3a0bbde0b99c

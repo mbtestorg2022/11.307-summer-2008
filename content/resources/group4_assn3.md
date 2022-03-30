@@ -7,6 +7,7 @@ description: Example of a completed group project develop the plan of the upper 
   Zhang Rouxi, and Ma Xiaoying.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-307-beijing-urban-design-studio-summer-2008/964d893f88cf36c4491a1326c3f9f2e7_group4_assn3.pdf
 file_type: application/pdf
+parent_uid: 6a77762e-ff6f-95c9-91a2-c0191efb0a1c
 resourcetype: Document
 title: Group 4 Assignment 3
 uid: 964d893f-88cf-36c4-491a-1326c3f9f2e7
